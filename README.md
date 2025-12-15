@@ -53,7 +53,7 @@ Working on cutting-edge software solutions and contributing to production-level 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Concepts:**  
-Object-Oriented Programming (OOP) • Artificial Intelligence • Machine Learning • REST APIs • Microservices
+Object-Oriented Programming (OOP) • Artificial Intelligence • Fullstack Development • Machine Learning • REST APIs • Microservices
 
 ## 📊 GitHub Stats
 
@@ -61,11 +61,7 @@ Object-Oriented Programming (OOP) • Artificial Intelligence • Machine Learni
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi-hestabit&layout=compact&theme=radical)
 
-## 🌱 Currently Learning
-
-- Advanced System Design
-- Cloud Technologies (AWS/Azure)
-- AI/ML Model Deployment
+## 🌱 Exploring technologies as much deep as I can!!
 
 ## 📫 Let's Connect!
 
