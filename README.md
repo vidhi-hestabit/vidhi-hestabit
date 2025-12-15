@@ -57,9 +57,9 @@ Object-Oriented Programming (OOP) • Artificial Intelligence • Machine Learni
 
 ## 📊 GitHub Stats
 
-![Vidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Vidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhi-hestabit&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi-hestabit&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
 
