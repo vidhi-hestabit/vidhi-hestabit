@@ -13,10 +13,10 @@ I'm a final year B.Tech Computer Science (AIML) student at **GLA University**, p
 Working on cutting-edge software solutions and contributing to production-level applications.
 
 ### Summer Intern
-**Goldman Sachs** | ACM Engineering Team  
+**Goldman Sachs** | ACM Engineering Team (Bangalore - 2 months) 
 - Developed internal enterprise solutions using modern tech stack
 - Technologies: SpringBoot, Angular, MongoDB, Kafka
-- Worked on critical internal GS projects with the engineering team
+- Worked on critical internal GS project with the engineering team
 
 ### Backend Developer Intern
 **Meridian Solutions** | 6 months  
@@ -69,7 +69,7 @@ Object-Oriented Programming (OOP) • Artificial Intelligence • Machine Learni
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][(https://in.linkedin.com/in/vidhi-ajmera-501328257)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)[(https://in.linkedin.com/in/vidhi-ajmera-501328257)]
 <!-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vidhia.hestabit@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL) -->
 
